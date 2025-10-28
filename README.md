@@ -99,9 +99,5 @@ Through this project, I developed strong practical skills in:
 
 ## Author
 
-**Harun Bilge**  
-Data Analyst | SQL | Power BI | Python  
-📍 Istanbul  
-
-🔗 [harunbilge.com](https://harunbilge.com) • [LinkedIn](https://www.linkedin.com/in/harun-bilge-b65a2a292) • [GitHub](https://github.com/Harun-Bilge)
+**Vishrut Gupta** 
 
